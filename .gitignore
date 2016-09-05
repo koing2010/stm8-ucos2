@@ -1,0 +1,8 @@
+/stm8s/iar/debug/*
+/stm8s/iar/settings/*
+/stm8s/iar/*.dep
+/stm8s/iar/*.ewd
+/stm8s/iar/*.ewp
+/stm8s/iar/*.eww
+
+
